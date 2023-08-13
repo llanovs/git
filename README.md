@@ -1,3 +1,3 @@
 # DevOps
 
-Git
+Homework Git: https://github.com/llanovs/git/
